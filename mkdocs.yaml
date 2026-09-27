@@ -21,6 +21,9 @@ extra_javascript:
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
   - javascripts/mathjax.js
 
+nav:
+  - Home: index.md
+  - Vowels: 001-Vowels/001-Vowels
 
 # Package	Adds
 # mkdocs-minify-plugin	Minifies HTML/CSS/JS output

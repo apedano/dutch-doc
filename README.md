@@ -117,7 +117,15 @@ No manual `mkdocs gh-deploy` step is needed once this is set up.
 
     ```
     https://<username>.github.io/<repo-name>/
+    https://apedano.github.io/dutch-doc/
     ```
+
+
+
+The build is supposed to create a
+
+n your repo, use the branch dropdown to look for a `gh-pages` branch. Open it and confirm there's an `index.html` at the root (not inside a `docs/` or `site/` subfolder). If the branch is missing entirely, the workflow never actually ran `mkdocs gh-deploy` successfully — check the Actions tab logs for errors, even if the job shows green.
+
 
 ## Notes
 

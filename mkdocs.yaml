@@ -1,0 +1,31 @@
+site_name: Dutch doc
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - admonition
+  - toc:
+      permalink: true
+
+extra_javascript:
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/mathjax.js
+
+
+# Package	Adds
+# mkdocs-minify-plugin	Minifies HTML/CSS/JS output
+# mkdocs-git-revision-date-localized-plugin	"Last updated" date per page from git history
+# mkdocs-awesome-pages-plugin	More flexible nav ordering without editing mkdocs.yml manually
+# mkdocs-glightbox	Click-to-zoom on images
+# mkdocs-macros-plugin	Jinja variables/macros inside Markdown
+# mkdocs-mermaid2-plugin	Native Mermaid diagram rendering (alternative to JS-based approach)

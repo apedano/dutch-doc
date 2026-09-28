@@ -3,4 +3,4 @@ markdown
 
 Welcome to the Dutch language documentation.
 
-- [Vowels](001-Vowels/index.md)
+- [Vowels](001-Pronunciation/index.md)

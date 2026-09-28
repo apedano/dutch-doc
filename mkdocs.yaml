@@ -23,7 +23,7 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Vowels: 001-Vowels/001-Vowels
+  - Pronunciation: 001-Pronunciation/index.md
 
 # Package	Adds
 # mkdocs-minify-plugin	Minifies HTML/CSS/JS output

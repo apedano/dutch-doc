@@ -54,7 +54,7 @@ Additional dependencies if needed
 Every push to `main` triggers a GitHub Actions workflow that:
 
 1. Installs MkDocs Material and dependencies
-2. Builds the static site (`mkdocs build`)
+2. Builds the static site (`mkdocs build`) [actions](https://github.com/apedano/dutch-doc/actions)
 3. Publishes the result to the `gh-pages` branch
 4. GitHub Pages serves the site from `gh-pages`
 

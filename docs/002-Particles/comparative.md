@@ -116,6 +116,6 @@ Examples:
 
 > Dit is **de grootste auto**.
 
-> Zij is **de**
+> Zij is **de** 
 
 

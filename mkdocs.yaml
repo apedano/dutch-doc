@@ -28,12 +28,14 @@ nav:
   - Home: index.md
   - Pronunciation: 001-Pronunciation/index.md
   - Particles:
-    - Articles: 002-Particles/articles.md
-    - Pronouns: 002-Particles/pronouns.md
-    - Demonstratives: 002-Particles/demonstratives.md
-    - Possession: 002-Particles/possession.md
-    - Adjectives: 002-Particles/adjectives.md
-    - Comparison: 002-Particles/comparative.md
+      - Articles: 002-Particles/articles.md
+      - Pronouns: 002-Particles/pronouns.md
+      - Demonstratives: 002-Particles/demonstratives.md
+      - Possession: 002-Particles/possession.md
+      - Adjectives: 002-Particles/adjectives.md
+      - Comparison: 002-Particles/comparative.md
+  - Numbering:
+      - Time: 003-Numbering/time.md
 
 
 
